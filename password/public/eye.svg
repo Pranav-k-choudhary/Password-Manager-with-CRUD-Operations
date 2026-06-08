@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="24" viewBox="0 0 36 24" id="eye">
+  <g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+    <g id="Asset-1" fill="#1D1D1B" fill-rule="nonzero" transform="translate(-2 -6)">
+      <g id="Lager_83" transform="translate(2 6)">
+        <path id="Shape" d="M18 4c4.446 0 8.92 2.754 13.048 8-4.127 5.246-8.602 8-13.048 8s-8.92-2.754-13.048-8C9.079 6.754 13.554 4 18 4zm0-4C11.725 0 5.45 4 0 12v3-3c5.45 8 11.725 12 18 12s12.55-4 18-12v3-3C30.55 4 24.275 0 18 0z"></path>
+        <circle id="Oval" cx="18" cy="12" r="4"></circle>
+      </g>
+    </g>
+  </g>
+</svg>
